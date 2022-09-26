@@ -2,12 +2,11 @@
     margin: 0;
     padding: 0;
 }
-.banner{
-    background-image: url("/image/image.jpg");
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    min-height: 100vh;
+body{
+    .banner{
+        background-color: rebeccapurple;
+        
+    }
 }
 .intro{
     display: flex;
